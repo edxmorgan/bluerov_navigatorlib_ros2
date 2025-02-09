@@ -7,7 +7,7 @@ This project integrates ROS2 with Blue Robotics' Navigator library using Rust bi
 
 1. **BlueOS with ROS2**  
    Install ROS2 on your BlueOS Raspberry Pi by following the guide here:  
-   [rpi-bullseye-ros2](https://github.com/Ar-Ray-code/rpi-bullseye-ros2)
+   [rpi-ros2](https://github.com/Ar-Ray-code/rpi-bullseye-ros2)
 
 2. **Navigator Library Rust Bindings**  
    Build the Rust bindings for the Navigator library. Detailed instructions are available in the repository:  
