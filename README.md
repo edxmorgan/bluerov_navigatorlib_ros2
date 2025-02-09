@@ -1,4 +1,3 @@
-Below is the revised README in Markdown format. You can save this as `README.md`:
 
 ---
 
