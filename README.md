@@ -1,4 +1,7 @@
-```markdown
+Below is the revised README in Markdown format. You can save this as `README.md`:
+
+---
+
 # ROS2 Navigator
 
 This project integrates ROS2 with Blue Robotics' Navigator library using Rust bindings. Follow the steps below to set up your BlueOS Raspberry Pi, build the necessary components, and run the project.
@@ -74,4 +77,5 @@ Run the project via SSH on your Raspberry Pi. Additionally, you can configure th
 ## Contact
 
 *Provide contact information or links to issue trackers if needed.*
-```
+
+---
