@@ -1,6 +1,3 @@
-
----
-
 # ROS2 Navigator
 
 This project integrates ROS2 with Blue Robotics' Navigator library using Rust bindings. Follow the steps below to set up your BlueOS Raspberry Pi, build the necessary components, and run the project.
@@ -64,17 +61,5 @@ Run the project via SSH on your Raspberry Pi. Additionally, you can configure th
   - Verify that the path in `CMakeLists.txt` matches the output directory from your Rust build.
   - Ensure that the `LD_LIBRARY_PATH` is correctly set and exported.
   - Check the build logs from `colcon` for any errors.
-
-## License
-
-*Include your project's license information here.*
-
-## Contributing
-
-*Include guidelines for contributing to your project if applicable.*
-
-## Contact
-
-*Provide contact information or links to issue trackers if needed.*
 
 ---
