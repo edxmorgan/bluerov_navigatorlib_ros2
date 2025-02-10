@@ -1,4 +1,4 @@
-# ROS2 Navigator
+# ros2 package for bluerov navigator-lib
 
 This project integrates ROS2 with Blue Robotics' Navigator library using Rust bindings. Follow the steps below to set up your BlueOS Raspberry Pi, build the necessary components, and run the project.
 
